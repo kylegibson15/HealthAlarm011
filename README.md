@@ -2,7 +2,7 @@
 - wake up with a smile
 
 ##### Scan this QR code through your Expo app to use HealthAlarm
-![HealthAlarm QR Code]('./src/assets/images/HealthAlarmQRcode.png')
+[logo]:./src/assets/images/HealthAlarmQRcode.png "HealthAlarmQRcode"
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
